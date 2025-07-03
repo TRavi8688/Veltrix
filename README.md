@@ -8,8 +8,8 @@
 
 Upload applicant details → Get an instant decision.
 
-Try the live app: [Hugging Face Space 🔗](https://huggingface.co/spaces/YourUsername/ICE)  
-*(replace with your actual URL)*
+Try the live app: [Hugging Face Space 🔗](https://huggingface.co/spaces/YourUsername/ICE)](https://huggingface.co/spaces/ravi86/ICE/tree/main)  
+
 
 ---
 
@@ -60,7 +60,7 @@ Try the live app: [Hugging Face Space 🔗](https://huggingface.co/spaces/YourUs
 
 ## ⚙️ How to Run Locally
 # Clone the repository
-git clone https://github.com/TRavi8688/ICE-Loan-Prediction.git
+git clone [https://github.com/TRavi8688/ICE-Loan-Prediction](https://github.com/TRavi8688/Veltrix/tree/main).git
 cd ICE-Loan-Prediction
 
 # Install required dependencies
