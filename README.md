@@ -59,15 +59,16 @@ Try the live app: [Hugging Face Space 🔗](https://huggingface.co/spaces/YourUs
 ---
 
 ## ⚙️ How to Run Locally
-
-```bash
+# Clone the repository
 git clone https://github.com/TRavi8688/ICE-Loan-Prediction.git
 cd ICE-Loan-Prediction
 
+# Install required dependencies
 pip install -r requirements.txt
 
+# Run the app
 python app.py
-```bash
+
 Access the app at http://localhost:7860/
 
 
