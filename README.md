@@ -67,6 +67,7 @@ cd ICE-Loan-Prediction
 pip install -r requirements.txt
 
 python app.py
+```bash
 Access the app at http://localhost:7860/
 
 
